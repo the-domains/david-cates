@@ -1,0 +1,28 @@
+name: David Cates
+favicon: null
+layout_spectrum: 0.386070370208472
+typography_spectrum: 0.6046220299322158
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.22397737228311598
+  lightness: 0.7450998255517334
+  saturation: 0.031170545145869255
+  rhythmicContrast: 0.5660588874015957
+purpose: []
